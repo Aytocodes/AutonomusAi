@@ -1,0 +1,5 @@
+direction,entry,sl,tp,lot,exit_price,pnl,outcome,entry_bar,exit_bar
+bullish,50.636,50.34,51.12,10.14,51.12,49.08,win,1761,1776
+bearish,51.094,51.42,50.31,9.25,50.31,72.52,win,2104,2176
+bullish,58.19,57.83,58.74,8.43,57.83,-30.35,loss,3279,3287
+bullish,68.53,68.16,69.25,8.18,68.16,-30.27,loss,4434,4444
